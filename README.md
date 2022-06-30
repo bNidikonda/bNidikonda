@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bNidikonda and working as QA/Test Automation professional with opensource tools like Selenium webdriver,RestAssured,UIpath etc
+- 👋 Hi, I’m @bNidikonda and working as QA/Test Automation professional with opensource tools like Selenium webdriver,RestAssured,UIpath & Cucumber BDD and also Appium etc
 - 👀 I’m interested in ...Bigdata ,Python & Javascript based projects
 - 🌱 I’m currently learning ...python & AI,ML,Deep learning and also NLP etc..
 - 💞️ I’m looking to collaborate on ...opensource projects and also to build web based applications 
